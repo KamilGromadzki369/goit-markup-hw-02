@@ -22,12 +22,14 @@ body {
     
     color: #2196F3;
 }
-.brand-color: {
+
+.brand-color {
     color: #2196F3;
 }
-.white-color: {
+.black-color {
     color: #000000;
 }
+
 .navbar .navigation a {
     font-family: 'Roboto';
     font-style: normal;
