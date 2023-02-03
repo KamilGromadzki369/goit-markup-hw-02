@@ -28,6 +28,9 @@ body {
 .navigation-color {
     color: #212121;
 }
+.navigation-color-blue {
+    color: #2196F3;
+}
 
 .navbar .navigation a {
     font-family: 'Roboto';
