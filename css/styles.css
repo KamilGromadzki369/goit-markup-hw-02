@@ -1,15 +1,51 @@
+:root {
+    --main-color: #212121;
+    --secondary-color: #757575;
+}
+
 body {
-    background-color: white;
+    background-color: #E5E5E5;
     font-family: 'Roboto', sans-serif;
 }
 .navbar a {
     text-decoration: none;
-
+}
+.brand-link {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    letter-spacing: 0.03em;
+    
+    color: #2196F3;
+}
+.brand-color: {
+    color: #2196F3;
+}
+.white-color: {
+    color: #000000;
+}
+.navbar .navigation a {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    /* font-size: 14px;
-    line-height: 16px; */
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: var(--main-color) black;
+}
+.navbar .contact-link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
     letter-spacing: 0.02em;
     color: #757575;
 }
+ ul {
+    list-style-type: none;
+ }
