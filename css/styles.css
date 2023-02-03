@@ -1,11 +1,7 @@
-:root {
-    --main-color: #212121;
-    --secondary-color: #757575;
-}
-
 body {
     background-color: #E5E5E5;
     font-family: 'Roboto', sans-serif;
+    color: #EEEEEE;
 }
 .navbar a {
     text-decoration: none;
@@ -29,6 +25,9 @@ body {
 .black-color {
     color: #000000;
 }
+.navigation-color {
+    color: #212121;
+}
 
 .navbar .navigation a {
     font-family: 'Roboto';
@@ -37,7 +36,7 @@ body {
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    color: var(--main-color) black;
+    color: #212121;
 }
 .navbar .contact-link {
     font-family: 'Roboto';
