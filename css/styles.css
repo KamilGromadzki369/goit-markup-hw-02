@@ -42,7 +42,7 @@ body {
  ul {
     list-style-type: none;
  }
- .btn-primary {
+ .btn .btn-primary {
     font-weight: 500;
     font-size: 16px;
     line-height: 1;
@@ -50,7 +50,7 @@ body {
     letter-spacing: 0.03em;
     color:#FFFFFF;
  }
- .btn-secondary {
+ .btn .btn-secondary {
     font-weight: 500;
     font-size: 16px;
     line-height: 1;
