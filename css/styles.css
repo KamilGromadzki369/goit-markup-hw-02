@@ -50,6 +50,7 @@ body {
     letter-spacing: 0.03em;
     color:#FFFFFF;
     background-color: #2196F3;
+    cursor: pointer;
  }
  .btn-secondary {
     font-weight: 500;
@@ -59,6 +60,7 @@ body {
     letter-spacing: 0.03em;
     color: #212121;
     background-color: #F5F4FA;
+    cursor: pointer;
  }
  .title {
     font-weight: 700;
