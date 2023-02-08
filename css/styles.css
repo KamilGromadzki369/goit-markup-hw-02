@@ -49,6 +49,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color:#FFFFFF;
+    background-color: #2196F3;
  }
  .btn .btn-secondary {
     font-weight: 500;
@@ -57,4 +58,5 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
+    background-color: #F5F4FA;
  }
