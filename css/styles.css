@@ -42,7 +42,7 @@ body {
  ul {
     list-style-type: none;
  }
- .btn .btn-primary {
+ .btn-primary {
     font-weight: 500;
     font-size: 16px;
     line-height: 1;
@@ -51,7 +51,7 @@ body {
     color:#FFFFFF;
     background-color: #2196F3;
  }
- .btn .btn-secondary {
+ .btn-secondary {
     font-weight: 500;
     font-size: 16px;
     line-height: 1;
