@@ -28,7 +28,14 @@ body {
     text-decoration: none;
 }
 .nav-link a:hover,
-.nav-link a:focus {
+.nav-link a:focus,
+.link-logo a:hover,
+.link-logo a:focus,
+.contact-link a:hover,
+.contact-link a:focus,
+.addres-place a:focus,
+.addres-mail a:hover,
+.addres-contact a:focus   {
     color: #2196F3;
 }
 .contact-link {
