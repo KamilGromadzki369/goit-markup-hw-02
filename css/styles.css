@@ -85,5 +85,10 @@ body {
     letter-spacing: 0.03em;
     text-decoration-line: underline;
     color: rgba(255, 255, 255, 0.6);
-
+ }
+ .addres-contact {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
  }
