@@ -42,17 +42,12 @@ body {
  ul {
     list-style-type: none;
  }
- .btn-primary {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1;
-    text-align: center;
-    letter-spacing: 0.03em;
+ .btn:hover,
+ .btn:focus {
     color:#FFFFFF;
     background-color: #2196F3;
-    cursor: pointer;
  }
- .btn-secondary {
+ .btn {
     font-weight: 500;
     font-size: 16px;
     line-height: 1;
@@ -70,7 +65,6 @@ body {
     color: #212121;
  }
  .description {
-   font-weight: 400;
    font-size: 16px;
    line-height: 1;
    letter-spacing: 0.03em;
