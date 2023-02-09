@@ -132,3 +132,7 @@ a:hover,
 a:focus {
     color: var(--brand-color);
 }
+span:hover,
+span:focus {
+    color: var(--brand-color);
+}
