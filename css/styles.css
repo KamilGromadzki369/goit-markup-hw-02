@@ -108,7 +108,7 @@ body {
     color: var(--brand-color);
 }
 
-.contact-link a:hover
+.contact-link a:hover,
 .contact-link a:focus {
     color: var(--brand-color);
 }
@@ -126,5 +126,9 @@ body {
 }
 .addres-mail a:hover,
 .addres-mail a:focus {
+    color: var(--brand-color);
+}
+a:hover,
+a:focus {
     color: var(--brand-color);
 }
