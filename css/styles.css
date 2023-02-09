@@ -34,25 +34,6 @@ body {
     color: var(--main-color);
     text-decoration: none;
 }
-.nav-link a:hover,
-.nav-link a:focus {
-    color: var(--brand-color);
-}
-
-.link-logo a:hover,
-.link-logo a:focus {
-    color: var(--brand-color);
-}
-.contact-link a:hover,
-.contact-link a:focus {
-    color: var(--brand-color);
-}
-
-.addres-place a:focus,
-.addres-mail a:hover,
-.addres-contact a:focus {
-    color: var(--brand-color);
-}
 
 .contact-link {
     font-weight: 500;
@@ -122,3 +103,21 @@ body {
     background-color: #2F303A;
 
  }
+ .nav-link a:hover,
+.nav-link a:focus {
+    color: var(--brand-color);
+}
+
+.link-logo a:hover,
+.link-logo a:focus {
+    color: var(--brand-color);
+}
+.contact-link a:hover,
+.contact-link a:focus {
+    color: var(--brand-color);
+}
+
+.addres-place a:focus,
+.addres-mail a:hover,
+.addres-contact a:focus {
+    color: var(--brand-color); }
