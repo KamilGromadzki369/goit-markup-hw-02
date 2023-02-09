@@ -35,18 +35,14 @@ body {
 .contact-link {
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,15;
+    line-height: 1.15;
     letter-spacing: 0.02em;
     color: #757575;
 }
  ul {
     list-style-type: none;
  }
- .btn:hover,
- .btn:focus {
-    color:#FFFFFF;
-    background-color: #2196F3;
- }
+
  .btn {
     font-weight: 500;
     font-size: 16px;
@@ -57,6 +53,13 @@ body {
     background-color: #F5F4FA;
     cursor: pointer;
  }
+ 
+ .btn:hover,
+ .btn:focus {
+    color:#FFFFFF;
+    background-color: #2196F3; 
+}
+
  .title {
     font-weight: 700;
     font-size: 18px;
