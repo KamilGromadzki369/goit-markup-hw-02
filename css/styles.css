@@ -112,8 +112,8 @@ body {
 .contact-link a:focus {
     color: var(--brand-color);
 }
-.link-logo a:hover,
-.link-logo a:focus {
+.link .link-logo a:hover,
+.link .link-logo a:focus {
     color: var(--brand-color);
 }
 .addres-contact a:hover,
