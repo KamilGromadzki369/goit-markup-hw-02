@@ -112,3 +112,7 @@ a:hover
 a:focus {
     color: var(--brand-color);
 }
+.link-logo a:hover,
+.link-logo a:focus {
+    color: var(--brand-color);
+}
