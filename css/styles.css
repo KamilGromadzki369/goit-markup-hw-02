@@ -50,7 +50,7 @@ body {
  .btn {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1;
+    line-height: 1.6;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--main-color);
@@ -67,33 +67,33 @@ body {
  .title {
     font-weight: 700;
     font-size: 18px;
-    line-height: 1;
+    line-height: 2;
     letter-spacing: 0.06em;
     color: var(--main-color);
  }
  .description {
    font-size: 16px;
-   line-height: 1;
+   line-height: 1.9;
    letter-spacing: 0.03em;
    color: #757575;
  }
  .addres-place { 
    font-size: 14px;
-   line-height: 24px;
+   line-height: 1.7;
    letter-spacing: 0.03em;
    color: var(--white-color);
    text-decoration: none;
  }
  .addres-mail {
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.7;
     letter-spacing: 0.03em;
     text-decoration-line: underline;
     color: rgba(255, 255, 255, 0.6);
  }
  .addres-contact {
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.7;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
