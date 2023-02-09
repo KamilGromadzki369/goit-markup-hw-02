@@ -108,16 +108,7 @@ body {
     color: var(--brand-color);
 }
 
-a:hover,
+a:hover
 a:focus {
     color: var(--brand-color);
 }
-.contact-link a:hover,
-.contact-link a:focus {
-    color: var(--brand-color);
-}
-
-.addres-place a:focus,
-.addres-mail a:hover,
-.addres-contact a:focus {
-    color: var(--brand-color); }
