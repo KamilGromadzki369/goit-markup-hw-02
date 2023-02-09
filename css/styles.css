@@ -103,16 +103,28 @@ body {
     background-color: #2F303A;
 
  }
- .nav-link a:hover,
+.nav-link a:hover,
 .nav-link a:focus {
     color: var(--brand-color);
 }
 
-a:hover
-a:focus {
+.contact-link a:hover
+.contact-link a:focus {
     color: var(--brand-color);
 }
 .link-logo a:hover,
 .link-logo a:focus {
+    color: var(--brand-color);
+}
+.addres-contact a:hover,
+.addres-contact a:focus {
+    color: var(--brand-color);
+}
+.addres-place a:hover,
+.addres-place a:focus {
+    color: var(--brand-color);
+}
+.addres-mail a:hover,
+.addres-mail a:focus {
     color: var(--brand-color);
 }
